@@ -1,6 +1,6 @@
 import java.util.Stack;
 
-public class CorrectSequence {
+public class CorrectSequence_5 {
 
     public static boolean sequence(String[] array){
         String open = "(";
